@@ -18,6 +18,63 @@ I'm a full stack software engineer, who specializes in the development and deplo
 
 ## 🖥️ My Tech Stack
 
+Icons are taken from **[devicons](https://devicons.railway.app/)** and **[TechIcons](https://techicons.dev/?search=j)**.
+
+<div>
+  <img src="https://devicons.railway.app/i/java.svg" alt="Java" width="50" height="50"/>
+  &nbsp;
+  <img src="./assets/Eclipse IDE.svg" alt="Eclipse IDE" width="50" height="50"/>
+  &nbsp;
+  <img src="https://devicons.railway.app/i/visual-studio-code.svg" alt="VS Code" width="50" height="50"/>
+  &nbsp;
+  <img src="./assets/Markdown.svg" alt="Markdown" width="50" height="50"/>
+  &nbsp;
+  <img src="https://devicons.railway.app/i/html5.svg" alt="HTML" width="50" height="50"/>
+  &nbsp;
+  <img src="https://devicons.railway.app/i/css3.svg" alt="CSS" width="50" height="50"/>
+  &nbsp;
+
+  <img src="https://devicons.railway.app/i/javascript.svg" alt="JavaScript" width="50" height="50"/>
+  &nbsp;
+  <img src="https://devicons.railway.app/i/typescript.svg" alt="TypeScript" width="50" height="50"/>
+  &nbsp;
+  <img src="https://devicons.railway.app/i/react.svg" alt="React" width="50" height="50"/>
+  &nbsp;
+  <img src="https://devicons.railway.app/i/vitejs.svg" alt="Vite" width="50" height="50"/>
+  &nbsp;
+  <img src="https://devicons.railway.app/i/python.svg" alt="Python" width="50" height="50"/>
+  &nbsp;
+  <img src="https://devicons.railway.app/i/flask-dark.svg" alt="Flask" width="50" height="50"/>
+  &nbsp;
+
+  
+  <img src="/assets/SQLite.svg" alt="SQLite" width="50" height="50"/>
+  &nbsp;
+  <img src="https://devicons.railway.app/i/sqlalchemy.svg" alt="SQLAlchemy" width="50" height="50"/>
+  &nbsp;
+  <img src="https://devicons.railway.app/i/postgresql.svg" alt="PostgreSQL" width="50" height="50"/>
+  &nbsp;
+  <img src="https://devicons.railway.app/i/mysql.svg" alt="MySQL" width="50" height="50"/>
+  &nbsp;
+  <img src="./assets/JSON.svg" alt="JSON" width="50" height="50"/>
+  &nbsp;
+  <img src="https://devicons.railway.app/i/postman.svg" alt="Postman" width="50" height="50"/>
+  &nbsp;
+ 
+
+  <img src="https://devicons.railway.app/i/git.svg" alt="Git" width="50" height="50"/>
+  &nbsp;
+  <img src="https://devicons.railway.app/i/bash.svg" alt="Bash" width="50" height="50"/>
+  &nbsp;
+  <img src="https://devicons.railway.app/i/ubuntu.svg" alt="Ubuntu" width="50" height="50"/>
+  &nbsp;
+  <img src="https://devicons.railway.app/i/android.svg" alt="Android" width="50" height="50"/>
+  &nbsp;
+  <img src="https://devicons.railway.app/i/windows10.svg" alt="Windows 10" width="50" height="50"/>
+  &nbsp;
+  <img src="https://devicons.railway.app/i/w11.svg" alt="Windows 11" width="50" height="50"/>
+  &nbsp;
+</div>
 
 <!--
 **adnanian/adnanian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
