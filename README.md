@@ -1,6 +1,7 @@
 # Welcome to the Adnanian Order
 ![Green Text of Binary Code Scrolling Down](https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=790b7611qmp53avtx9ieiy4t8ur07doqfj9xojqy5om9ec7x&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 <img src="./images/Adnanian%20Flag%202024%20-%20Death.png" alt="Flag of Adnan" width="400" height="400"/>
+<img src="./images/Colorgon.png" alt="Flag of Adnan" width="400" height="400"/>
 
 ## 👋 Hi! My Name is Adnan Wazwaz
 
@@ -78,8 +79,8 @@ Icons are taken from **[devicons](https://devicons.railway.app/)** and **[TechIc
 
 ## Easy Itemizer
 
-My latest project, Easy Itemizer, is a live, full-stack web application and inventory management system. The purpose is to help companies keep track of their items, and give them the freedom to set limits on when it's time to purchase more items.
+My latest project, [Easy Itemizer](https://www.easyitemizer.com/), is a live, full-stack web application and inventory management system. The purpose is to help companies keep track of their items, and give them the freedom to set limits on when it's time to purchase more items.
 
-[](https://www.easyitemizer.com/)
+![Example of using Easy Itemizer, traking items](/images/Organization.png)
 
 
