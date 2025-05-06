@@ -15,7 +15,7 @@ I'm a full stack software engineer, who specializes in the development and deplo
 
 🤔 I'm actively seeking help testing out my latest application, Easy Itemizer (more on that below), a live, full stack inventory mangement system.
 
-📫 You can reach out to me on [<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adnan-wazwaz-09aa1b2b7/) or [my personal website](https://adnan-wazwaz.netlify.app/) for further inquires.
+📫 You can reach out to me on [<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adnanian/) or [my personal website](https://adnan-wazwaz.netlify.app/) for further inquires.
 
 ## 🖥️ My Tech Stack
 
