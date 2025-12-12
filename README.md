@@ -9,7 +9,7 @@ I'm a full stack software engineer, who specializes in the development and deplo
 
 🔭 I'm currently freelancing and collaborating with others on various projects.
 
-🌱 I'm currently learning TypeScript and perfecting my CSS, as well as researching a variety of topics such as DevOps and technical writing.
+🌱 I'm currently learning React Native and System Design, as well as researching a variety of topics such as DevOps and technical writing.
 
 ⚡ I'm also passionate about the Arabic language (specifically Fusha or Classical/Modern Standard).
 
