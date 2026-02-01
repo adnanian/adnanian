@@ -5,15 +5,15 @@
 
 ## 👋 Hi! My Name is Adnan Wazwaz
 
-I'm a full stack software engineer, who specializes in the development and deployment of web and mobile applications. My sectors of focus are retail and education.
+I'm a an indie full-stack app developer who specializes in optimizing internal workflows.
 
-🔭 I'm currently freelancing and collaborating with others on various projects.
+🔭 I recently completed a System Design course on Udemy.
 
-🌱 I'm currently learning React Native and System Design, as well as researching a variety of topics such as DevOps and technical writing.
+🌱 I'm currently learning React Native and Spring Boot, as well as researching a variety of topics such as DevOps and technical writing.
 
 ⚡ I'm also passionate about the Arabic language (specifically Fusha or Classical/Modern Standard).
 
-🤔 I'm actively seeking help testing out my latest application, Easy Itemizer (more on that below), a live, full stack inventory mangement system.
+🤔 I deployed my first full-stack web application, Easy Itemizer (more on that below), a live, full stack inventory mangement system.
 
 📫 You can reach out to me on [<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adnanian/) or [my personal website](https://adnan-wazwaz.netlify.app/) for further inquires.
 
