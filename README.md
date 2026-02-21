@@ -15,7 +15,7 @@ I'm a an indie full-stack app developer who specializes in optimizing internal w
 
 🤔 I deployed my first full-stack web application, Easy Itemizer (more on that below), a live, full stack inventory mangement system.
 
-📫 You can reach out to me on [<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adnanian/) or [my personal website](https://adnan-wazwaz.netlify.app/) for further inquires.
+📫 You can reach out to me on [<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adnanian/) or [my personal website](https://adnanianorder.com/) for further inquires.
 
 ## 🖥️ My Tech Stack
 
