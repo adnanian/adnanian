@@ -9,7 +9,7 @@ I'm a an indie full-stack app developer who specializes in optimizing internal w
 
 🔭 I recently completed a System Design course on Udemy.
 
-🌱 I'm currently learning React Native and Rust, as well as researching a variety of topics such as DevOps and technical writing.
+🌱 I'm currently learning React Native and Rust, as well as researching a variety of topics that pertain to being an indie app developer.
 
 ⚡ I'm also passionate about the Arabic language (specifically Fusha or Classical/Modern Standard).
 
