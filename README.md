@@ -79,7 +79,7 @@ Icons are taken from **[devicons](https://devicons.railway.app/)** and **[TechIc
 
 ## Easy Itemizer
 
-My latest project, [Easy Itemizer](https://www.easyitemizer.com/), is a live, full-stack web application and inventory management system. The purpose is to help companies keep track of their items, and give them the freedom to set limits on when it's time to purchase more items.
+My capstone project, [Easy Itemizer](https://www.easyitemizer.com/), is a formely live, full-stack web application and inventory management system. The purpose is to help companies keep track of their items, and give them the freedom to set limits on when it's time to purchase more items.
 
 ![Example of using Easy Itemizer, traking items](/images/Organization.png)
 
