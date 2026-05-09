@@ -1,7 +1,7 @@
 # Welcome to the Adnanian Order
-![Green Text of Binary Code Scrolling Down](https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=790b7611qmp53avtx9ieiy4t8ur07doqfj9xojqy5om9ec7x&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 <img src="./images/Adnanian%20Flag%202024%20-%20Death.png" alt="Flag of Adnan" width="400" height="400"/>
 <img src="./images/Colorgon.png" alt="Flag of Adnan" width="400" height="400"/>
+![Green Text of Binary Code Scrolling Down](https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=790b7611qmp53avtx9ieiy4t8ur07doqfj9xojqy5om9ec7x&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## 👋 Hi! My Name is Adnan Wazwaz
 
