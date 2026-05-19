@@ -8,7 +8,7 @@ I'm a an indie full-stack app developer, scripter, former deployment technician,
 
 🔭 I recently completed a System Design course on Udemy.
 
-🌱 I'm currently learning React Native and Rust, as well as researching a variety of topics that pertain to being an indie app developer.
+🌱 I'm currently learning React Native and Rust, as well as researching a variety of topics that pertain to being an indie app developer and entrepreneur.
 
 ⚡ I'm also passionate about the Arabic language (specifically Fusha or Classical/Modern Standard).
 
