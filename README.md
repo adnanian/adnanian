@@ -22,6 +22,8 @@ I'm a an indie full-stack app developer, scripter, former deployment technician,
 
 Icons are taken from **[devicons](https://devicons.railway.app/)** and **[TechIcons](https://techicons.dev/?search=j)**.
 
+Note: portfolio website is temproarily suspended until further notice. :)
+
 <table>
   <tr>
     <td align="center" width="72"><img src="https://devicons.railway.app/i/java.svg" alt="Java" width="50" height="50"/></td>
