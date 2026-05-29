@@ -22,7 +22,8 @@ I'm a an indie full-stack app developer, scripter, former deployment technician,
 
 Icons are taken from **[devicons](https://devicons.railway.app/)** and **[TechIcons](https://techicons.dev/?search=j)**.
 
-Note: portfolio website is temproarily suspended until further notice. :)
+Note: portfolio website is temproarily suspended, until further notice. :)
+Note 5/28: portfolio may be revised to include all entrepreneurial side projects in more detail, and not just coding projects.
 
 <table>
   <tr>
