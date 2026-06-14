@@ -1,4 +1,4 @@
-# Welcome to the Adnanian Order (CURRENTLY UNDERGOING UPDATES)
+# Welcome to the Adnanian Order (CURRENTLY UNDERGOING UPDATES & MAJOR REVISIONS)
 <img src="./images/Adnanian%20Flag%202024%20-%20Death.png" alt="Flag of Adnan" width="400" height="400"/>
 <img src="./images/Colorgon.png" alt="Flag of Adnan" width="400" height="400"/>
 
