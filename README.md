@@ -61,7 +61,7 @@ Note 5/28: portfolio may be revised to include all entrepreneurial side projects
 
 ## Easy Itemizer
 
-My capstone project, [Easy Itemizer](https://www.easyitemizer.com/), is a formely live, full-stack web application and inventory management system. The purpose is to help companies keep track of t[...]
+My capstone project, [Easy Itemizer](https://www.easyitemizer.com/), is a formely live, full-stack web application and inventory management system. The purpose is to help companies keep track of all your non-stock inventory.
 
 ![Example of using Easy Itemizer, traking items](/images/Organization.png)
 
