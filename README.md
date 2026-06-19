@@ -10,7 +10,7 @@ I'm a an indie full-stack app developer, scripter, former deployment technician,
 
 🌱 I'm currently learning React Native and Rust, as well as researching a variety of topics that pertain to being an indie app developer and entrepreneur.
 
-⚡ I'm also very passionate about the Arabic language (specifically Fusha or Classical/Modern Standard).
+⚡ I'm also very passionate about the Arabic language (specifically Fusha or Classical/Modern Standard). I love learning other languages too.
 
 🤔 On July 11, 2024, I deployed my first full-stack web application, Easy Itemizer (more on that below), a live, full stack inventory mangement system.
 (Note, app has long since been suspended. A new production app will hopefully be released soon.)
