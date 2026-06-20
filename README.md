@@ -6,7 +6,7 @@
 
 I'm a an indie full-stack app developer, scripter, former deployment technician, and entrepreneur who specializes in optimizing internal workflows and processes.
 
-🔭 I recently completed a System Design course on Udemy.
+🔭 I completed a System Design course on Udemy in January 2026.
 
 🌱 I'm currently learning React Native and Rust, as well as researching a variety of topics that pertain to being an indie app developer and entrepreneur.
 
