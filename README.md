@@ -2,13 +2,11 @@
 <img src="./images/Adnanian%20Flag%202024%20-%20Death.png" alt="Flag of Adnan" width="400" height="400"/>
 <img src="./images/Colorgon.png" alt="Flag of Adnan" width="400" height="400"/>
 
-## 👋 Hi! My Name is Adnan Wazwaz
+## 👋 Hi! My Name is Adnan Wazwaz!
 
 I'm a an indie full-stack app developer, scripter, former deployment technician, and entrepreneur who specializes in optimizing internal workflows and processes.
 
 🔭 I completed a System Design course on Udemy in January 2026.
-
-🌱 I'm currently learning React Native and Rust, as well as researching a variety of topics that pertain to being an indie app developer and entrepreneur.
 
 ⚡ I'm also very passionate about the Arabic language (specifically Fusha or Classical/Modern Standard). I love learning other languages too.
 
