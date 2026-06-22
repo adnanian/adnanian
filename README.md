@@ -4,7 +4,7 @@
 
 ## 👋 Hi! My Name is Adnan Wazwaz!
 
-I'm a an indie full-stack app developer, scripter, former deployment technician, and entrepreneur who specializes in optimizing internal workflows and processes.
+I'm a an indie full-stack app developer, former deployment technician, and entrepreneur who specializes in optimizing internal workflows and processes.
 
 🔭 I completed a System Design course on Udemy in January 2026.
 
