@@ -10,9 +10,6 @@ I'm a an indie full-stack app developer, former deployment technician, and entre
 
 ⚡ I'm also very passionate about the Arabic language (specifically Fusha or Classical/Modern Standard). I love learning other languages too.
 
-🤔 On July 11, 2024, I deployed my first full-stack web application, Easy Itemizer (more on that below), a live, full stack inventory mangement system.
-(Note, app has long since been suspended. A new production app will hopefully be released soon.)
-
 📫 You can reach out to me on LinkedIn by clicking the button below:
 
 [<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adnanian/)
@@ -56,10 +53,3 @@ Note 5/28: portfolio may be revised to include all entrepreneurial side projects
     <td align="center" width="72"><img src="https://devicons.railway.app/i/w11.svg" alt="Windows 11" width="50" height="50"/></td>
   </tr>
 </table>
-
-## Easy Itemizer
-
-My capstone project, [Easy Itemizer](https://www.easyitemizer.com/), is a formely live, full-stack web application and inventory management system. The purpose is to help companies keep track of all your non-stock inventory.
-
-![Example of using Easy Itemizer, traking items](/images/Organization.png)
-
